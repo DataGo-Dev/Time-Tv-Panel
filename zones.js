@@ -3002,6 +3002,13 @@ var horariosDB = {
             zoneName: "Asia/New Delhi",
             gmtOffset: "30600",
             timestamp: "1581128530"
+        },
+        'America/Vitoria': {
+            countryCode: "BR",
+            countryName: "Brazil",
+            zoneName: "America/Vitoria",
+            gmtOffset: "0",
+            timestamp: "1581128530"
         }
     }
 }
