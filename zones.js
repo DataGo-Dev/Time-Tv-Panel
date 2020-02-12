@@ -2979,35 +2979,35 @@ var horariosDB = {
             countryCode: "US",
             countryName: "United States",
             zoneName: "America/Dallas",
-            gmtOffset: "-10800",
+            gmtOffset: "-21600",
             timestamp: "1581128530"
         },
         'America/Miami': {
             countryCode: "US",
             countryName: "United States",
             zoneName: "America/Miami",
-            gmtOffset: "-7200",
+            gmtOffset: "-18000",
             timestamp: "1581128530"
         },
         'Asia/Xiamen': {
             countryCode: "CN",
             countryName: "China",
             zoneName: "Asia/Xiamen",
-            gmtOffset: "39600",
+            gmtOffset: "28800",
             timestamp: "1581128530"
         },
         'Asia/New Delhi': {
             countryCode: "IN",
             countryName: "India",
             zoneName: "Asia/New Delhi",
-            gmtOffset: "30600",
+            gmtOffset: "19800",
             timestamp: "1581128530"
         },
         'America/Vitoria': {
             countryCode: "BR",
             countryName: "Brazil",
             zoneName: "America/Vitoria",
-            gmtOffset: "0",
+            gmtOffset: "-10800",
             timestamp: "1581128530"
         }
     }

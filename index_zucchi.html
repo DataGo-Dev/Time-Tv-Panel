@@ -62,7 +62,7 @@
                     gmtdifference[index] = undefined;
                     paises[index] = undefined;
                 } else {
-                    gmtdifference[index] = horariosDB.zones[cidades[index]].gmtOffset / 3600;
+                    gmtdifference[index] = (horariosDB.zones[cidades[index]].gmtOffset / 3600) + 3;
                     paises[index] = horariosDB.zones[cidades[index]].countryName;
                 }
 
